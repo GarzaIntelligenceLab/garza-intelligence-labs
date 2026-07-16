@@ -14,7 +14,7 @@ Define the key terms and words that are excluse to Garza Intelligence Labs, with
 
 ## GIL Glossary 
 ### Intelligence:
-- he capability to understand, infer, analyze, organize, and present information in a way that improves human understanding and decision-making. 
+- The capability to understand, infer, analyze, organize, and present information in a way that improves human understanding and decision-making. 
 ### Capability:
 - The full potential of an individual, organization, or system realized through clarity, disciplined operations, continuous improvement, and the ability to overcome constraints.
 ### Triple O Philosophy:
